@@ -2,7 +2,7 @@
 An open-source Discord Bot for crypto prices.
 
 Discord: Renax#6191
-Instagram: renax.official
+Instagram: renax187
 
 """
 
